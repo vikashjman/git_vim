@@ -1,0 +1,7 @@
+Quit Vi/Vim Editor
+There are four ways to quit the editor:
+
+:q – To quit the editor
+:q! – To force quit useful when changes are made to a file but the user doesn’t want to save them
+:qa! – Quit all open files without saving changes (force-quit)
+ZQ (Shift + ZQ) – Quit without saving changes
