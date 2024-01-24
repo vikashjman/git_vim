@@ -1,0 +1,9 @@
+How to Save a file in Vi/Vim Editor & Quit?
+To execute any command you must have to be in command mode to enter command mode if you are in insert mode press Esc.
+
+1. Save a file in Vi/Vim Editor
+There are 3 ways to save a file in the vi/vim editor which are mentioned below:
+
+:w – Save changes but do not exit.
+:wa: – Save all open multiple files without quitting.
+:w filename – Save the file with a different name and continue editing the current file.
